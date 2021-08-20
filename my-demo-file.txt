@@ -1,0 +1,6 @@
+hello
+
+
+ls //shows all files in the folder
+ls -a  // shows all hidden files also
+rm .txt  //removes the text file in the folder
